@@ -3,7 +3,7 @@
 ## VastSea Software Technologies
 - VastSea Media (Mobile) - Support discontinued
 - VastSea Media (Web) - Support discontinued
-- VastSea Blog - Under repair
+- VastSea Blog - Ready for use (2/10/2023)
 - Eg-Lang Scripting Language
   - Supported platforms:
     - Python
