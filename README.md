@@ -1,7 +1,6 @@
 # 🌊 VastSea Software Development and Management
 
-![VastSea Banner](https://example.com/banner-image.png)
-
+ 
 ## 🌟 VastSea Software Technologies
 - **VastSea Media (Mobile)** 📱 - *Support discontinued*
 - **VastSea Media (Web)** 🌐 - *Support discontinued*
@@ -30,7 +29,7 @@
 ```HumaBetik
 eger uzayli sonra "Merhaba!" egerdegilse insan sonra "Merhaba dünyalı!" degilse "????"
 ```
-##🚀 Technologies & Tools I Use
+## 🚀 Technologies & Tools I Use
  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -42,16 +41,16 @@ eger uzayli sonra "Merhaba!" egerdegilse insan sonra "Merhaba dünyalı!" degils
 - ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 I am a Linux developer and a passionate supporter of free software. My work is focused on developing cross-platform applications and creating tools that enhance productivity and creativity.
-##🌱 Current Focus
+## 🌱 Current Focus
     -Enhancing the functionality of VastSea Saver (VERASİS)
     -Developing Hüma Ağ Tarayıcısı
     -Expanding the capabilities of the Huma Scripting Language
 
-##📫 How to Reach Me
+## 📫 How to Reach Me
 
     Email: vastseaoffical0@outlook.com
      
 
-##⭐️ From VastSea0
+## ⭐️ From VastSea0
