@@ -17,7 +17,12 @@
   - Supported platforms:
     -Linux
       - Debian
+- Hüma Ağ Tarayıcısı (000.0a1 currently being developed
+  - Supported platforms:
+    -Linux
+      - Debian
       - Gnome
+        
 ```HumaBetik
  
 eger uzayli sonra " Merhaba!" egerdegilse insan sonra "Merhaba dünyalı!" degilse "????" 
