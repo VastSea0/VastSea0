@@ -18,7 +18,7 @@
   - Supported platforms:
     - Linux
       - Debian
-- **Hüma Ağ Tarayıcısı (000.0a10)** 🔍 - *currently being developed*
+- **Hüma Ağ Tarayıcısı (100.0a12)** 🔍 - *currently being developed*
   - Supported platforms:
     - Linux
    - **About**
