@@ -1,35 +1,34 @@
-# 🌊 VastSea Software Development and Management
+# 🌊 Merhaba ben Egehan! Hüma'nın geliştiricisi...
 
  
-## 🌟 VastSea Software Technologies
-- **VastSea Media (Mobile)** 📱 - *Support discontinued*
-- **VastSea Media (Web)** 🌐 - *Support discontinued*
-- **VastSea Blog** ✍️ - *Ready for use (2/10/2023)*
-- **VastSea Saver (VERASİS)** 🌟 - *(Cross Platform) currently being developed*
-- **Zirve Open-Source Style Sheet Framework** 🎨 - *currently being developed*
-- **Huma Scripting Language** 🧩
-  - Supported platforms:
+## 🌟 Ben ayrıca şu zamana kadar bu projeleri geliştirdim.
+- **VastSea Media (Mobil Uygulama)** 📱 - *Destek kapandı*
+- **VastSea Media (Web)** 🌐 - *Destek kapandı*
+- **VastSea Blog** ✍️ - *Yeniden açıldı (2/10/2023)*
+- **VERASİS** 🌟 - *Geliştirilme tamamlandı!*
+- **Zirve açık-kaynak CSS kütüphanesi** 🎨 - *hala geliştiriliyor*
+- **Hüma Betik** 🧩
+  - Çalıştığı dizgeler:
     - Python
     - Windows
-    - Linux
+    - GNU/Linux
     - MacOSX
 
-- **Füze Paket Yükleyicisi (V1.1)** 🚀 - *Support discontinued*
-  - Supported platforms:
+- **Füze Paket Yükleyicisi (V1.1)** 🚀 - *Proje iptal edildi :(*
+   - Çalıştığı dizgeler:
+    - GNU/Linux
+- **Hüma Ağ Tarayıcısı (100.0a12)** 🔍 - *Geliştirilme aşamasında*
+  - Çalıştığı dizgeler:
     - Linux
-      - Debian
-- **Hüma Ağ Tarayıcısı (100.0a12)** 🔍 - *currently being developed*
-  - Supported platforms:
-    - Linux
-   - **About**
-     - A Firefox-based web browser aimed at being the privacy-focused browser for Turks
+   - **Hakkında**
+     - Türklerin ilk web tarayıcısı; Firefox tabanlı, gizlilik odaklı. Hüma kadar özgür!
  
 
-## 📝 Sample Code in Huma Scripting Language
+## 📝 İşte size Hüma Betik dilinde bir betik
 ```HumaBetik
 eger uzayli sonra "Merhaba!" egerdegilse insan sonra "Merhaba dünyalı!" degilse "????"
 ```
-## 🚀 Technologies & Tools I Use
+## 🚀 Kullandığım araç ve teknolojiler
  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -41,16 +40,15 @@ eger uzayli sonra "Merhaba!" egerdegilse insan sonra "Merhaba dünyalı!" degils
 - ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 
-## 👨‍💻 About Me
-I am a Linux developer and a passionate supporter of free software. My work is focused on developing cross-platform applications and creating tools that enhance productivity and creativity.
-## 🌱 Current Focus
-    -Enhancing the functionality of VastSea Saver (VERASİS)
-    -Developing Hüma Ağ Tarayıcısı
-    -Expanding the capabilities of the Huma Scripting Language
+## 👨‍💻 Benim hakkımda
+Ben Türkiye'nin Kahramanmaraş şehrinde doğdum ve orada yaşıyorum. Yazılım, Felsefe, Müzik gibi ilgi alanlarım var. Yazı yazmayı severim ayrıca kod yazmayıda severim. Hep meraklı olmuşumdur bu nedenle her an araştırıyor ve öğreniyorum. Günlerim kod yazarak müzik dinleyerek kitap okuyarak veya sadece dizi izleyip zaman geçirerek geçiyor. Şu an bütün bunları sevdiğim için yapıyorum ve bir gün inzivaya çekilip Debian kullanarak yeşil bir ormanda yaşamak istiyorum. Sanırım MATE masaüstü kullanacağım. Ve belki de kedim için kendi işletim sistemimi yazacağım. 
+## 🌱 Şu anda odaklandıklarım
+    -Hüma Ağ Tarayıcısı
 
-## 📫 How to Reach Me
+## 📫 Bana ulaşmak için:
 
     Email: vastseaoffical0@outlook.com
+    Discord sunucum: https://discord.com/invite/G7dBWthb6A
      
 
-## ⭐️ From VastSea0
+## ⭐️ Sevgi ile geliştirildi!
