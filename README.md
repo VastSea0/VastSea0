@@ -17,7 +17,7 @@
 - **Füze Paket Yükleyicisi (V1.1)** 🚀 - *Proje iptal edildi :(*
    - Çalıştığı dizgeler:
     - GNU/Linux
-- **Hüma Ağ Tarayıcısı (100.0a12)** 🔍 - *Geliştirilme aşamasında*
+- **Hüma Ağ Tarayıcısı (100.0a13)** 🔍 - *Geliştirilme aşamasında*
   - Çalıştığı dizgeler:
     - Linux
    - **Hakkında**
