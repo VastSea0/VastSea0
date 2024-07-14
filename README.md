@@ -1,35 +1,12 @@
-# 🌊 Merhaba ben Egehan! Hüma'nın geliştiricisi...
+# 🌊 Hi, I'm Egehan! Developer of Hüma Browser...
 
- 
-## 🌟 Ben ayrıca şu zamana kadar bu projeleri geliştirdim.
-- **VastSea Media (Mobil Uygulama)** 📱 - *Destek kapandı*
-- **VastSea Media (Web)** 🌐 - *Destek kapandı*
-- **VastSea Blog** ✍️ - *Yeniden açıldı (2/10/2023)*
-- **VERASİS** 🌟 - *Geliştirilme tamamlandı!*
-- **Zirve açık-kaynak CSS kütüphanesi** 🎨 - *hala geliştiriliyor*
-- **Hüma Betik** 🧩
-  - Çalıştığı dizgeler:
-    - Python
-    - Windows
-    - GNU/Linux
-    - MacOSX
-
-- **Füze Paket Yükleyicisi (V1.1)** 🚀 - *Proje iptal edildi :(*
-   - Çalıştığı dizgeler:
-    - GNU/Linux
-- **Hüma Ağ Tarayıcısı (100.0a16)** 🔍 - *Geliştirilme aşamasında*
-  - Çalıştığı dizgeler:
+## 🌟 Current Project: Hüma Browser (100.0a16)
+- **About Hüma Browser**
+  - The first Turkish web browser; based on Firefox, focused on privacy. As free as a Hüma bird!
+  - **Platforms**:
     - Linux
-   - **Hakkında**
-     - Türklerin ilk web tarayıcısı; Firefox tabanlı, gizlilik odaklı. Hüma kadar özgür!
- 
 
-## 📝 İşte size Hüma Betik dilinde bir betik
-```HumaBetik
-eger uzayli sonra "Merhaba!" egerdegilse insan sonra "Merhaba dünyalı!" degilse "????"
-```
-## 🚀 Kullandığım araç ve teknolojiler
- 
+## 🚀 Tools and Technologies I Use
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,16 +16,17 @@ eger uzayli sonra "Merhaba!" egerdegilse insan sonra "Merhaba dünyalı!" degils
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
+## 👨‍💻 About Me
+I was born and live in Kahramanmaraş, Turkey. My interests include software, philosophy, and music. I love writing and coding. I'm always curious, constantly researching and learning. I spend my days coding, listening to music, reading books, or just watching series. I do all these because I love them, and one day, I dream of retreating to a green forest using Debian with the MATE desktop environment. I might even write my own operating system for my cat.
 
-## 👨‍💻 Benim hakkımda
-Ben Türkiye'nin Kahramanmaraş şehrinde doğdum ve orada yaşıyorum. Yazılım, Felsefe, Müzik gibi ilgi alanlarım var. Yazı yazmayı severim ayrıca kod yazmayıda severim. Hep meraklı olmuşumdur bu nedenle her an araştırıyor ve öğreniyorum. Günlerim kod yazarak müzik dinleyerek kitap okuyarak veya sadece dizi izleyip zaman geçirerek geçiyor. Şu an bütün bunları sevdiğim için yapıyorum ve bir gün inzivaya çekilip Debian kullanarak yeşil bir ormanda yaşamak istiyorum. Sanırım MATE masaüstü kullanacağım. Ve belki de kedim için kendi işletim sistemimi yazacağım. 
-## 🌱 Şu anda odaklandıklarım
-    -Hüma Ağ Tarayıcısı
+## 🌱 Current Focus
+- Hüma Browser
 
-## 📫 Bana ulaşmak için:
+## 📫 Contact Me:
+- Email: vastseaoffical0@outlook.com
+- Discord: [Join my server](https://discord.com/invite/G7dBWthb6A)
 
-    Email: vastseaoffical0@outlook.com
-    Discord sunucum: https://discord.com/invite/G7dBWthb6A
-     
+## ⭐️ Developed with Love!
 
-## ⭐️ Sevgi ile geliştirildi!
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/egehankahraman)
+> I do not make any financial profit from my software projects. If you like my projects and want to support me, you can motivate me by making a donation.
