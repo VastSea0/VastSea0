@@ -1,10 +1,8 @@
 # 🌊 Hi, I'm Egehan! Developer of Hüma Browser...
 
 ## 🌟 Current Project: Hüma Browser (100.0a16)
-- **About Hüma Browser**
-  - The first Turkish web browser; based on Firefox, focused on privacy. As free as a Hüma bird!
-  - **Platforms**:
-    - Linux
+Hüma Browser is the first Turkish web browser, built on the Firefox platform with a strong focus on privacy and freedom. Inspired by the Hüma bird, it embodies the spirit of liberty and innovation. Currently, it supports both Linux and Windows platforms.
+
 
 ## 🚀 Tools and Technologies I Use
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -17,7 +15,9 @@
 - ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 ## 👨‍💻 About Me
-I was born and live in Kahramanmaraş, Turkey. My interests include software, philosophy, and music. I love writing and coding. I'm always curious, constantly researching and learning. I spend my days coding, listening to music, reading books, or just watching series. I do all these because I love them, and one day, I dream of retreating to a green forest using Debian with the MATE desktop environment. I might even write my own operating system for my cat.
+I was born and live in Kahramanmaraş. My interests include software, philosophy, mythology, history and music. I love writing and coding. I am always curious, researching and learning. I spend my days writing code, listening to music, reading books or watching TV series. I love doing all these things and one day I dream of retiring to a green forest using Debian with MATE desktop environment. Maybe then I can even write my own operating system for my cat.
+
+In terms of software, I'm particularly interested in web development and I'm working on developing full-stack websites and software in the future. JavaScript is by far my favorite language. I also have a great interest in Linux systems and in the future I would like to write desktop software like Hüma. My goals include learning powerful programming languages like C/C++ and Rust.
 
 ## 🌱 Current Focus
 - Hüma Browser
