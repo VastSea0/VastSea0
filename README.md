@@ -1,3 +1,4 @@
+![image](https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/banner.gif?raw=true)
 # 🌊 Hi, I'm Egehan! Developer of Hüma Browser...
 
 ## 🌟 Current Project: Hüma Browser (100.0a16)
