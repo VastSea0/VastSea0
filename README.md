@@ -1,7 +1,7 @@
 ![image](https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/banner.gif?raw=true)
 # 🌊 Hi, I'm Egehan! Developer of Hüma Browser...
 
-## 🌟 Current Project: Hüma Browser (100.0a16)
+## 🌟 Current Project: Hüma Browser (100.0b1)
 Hüma Browser is the first Turkish web browser, built on the Firefox platform with a strong focus on privacy and freedom. Inspired by the Hüma bird, it embodies the spirit of liberty and innovation. Currently, it supports both Linux and Windows platforms.
 
 
