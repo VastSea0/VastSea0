@@ -22,6 +22,7 @@ In terms of software, I'm particularly interested in web development and I'm wor
 
 ## 🌱 Current Focus
 - Hüma Browser
+- Learning Rust 🦀
 
 ## 📫 Contact Me:
 - Email: vastseaoffical0@outlook.com
