@@ -6,6 +6,8 @@ Hüma Browser is the first Turkish web browser, built on the Firefox platform wi
 
 ## My Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vastsea0&locale=tr)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastsea0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastsea0&theme=vision-friendly-dark&layout=pie" />
 
 ## 🚀 Tools and Technologies I Use
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,6 +18,7 @@ Hüma Browser is the first Turkish web browser, built on the Firefox platform wi
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+- [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 ## 👨‍💻 About Me
 I was born and live in Kahramanmaraş. My interests include software, philosophy, mythology, history and music. I love writing and coding. I am always curious, researching and learning. I spend my days writing code, listening to music, reading books or watching TV series. I love doing all these things and one day I dream of retiring to a green forest using Debian with MATE desktop environment. Maybe then I can even write my own operating system for my cat.
