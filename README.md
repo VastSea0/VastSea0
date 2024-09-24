@@ -4,6 +4,8 @@
 ## 🌟 Current Project: Hüma Browser (100.0b1)
 Hüma Browser is the first Turkish web browser, built on the Firefox platform with a strong focus on privacy and freedom. Inspired by the Hüma bird, it embodies the spirit of liberty and innovation. Currently, it supports both Linux and Windows platforms.
 
+## My Github Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vastsea0&locale=tr)](https://git.io/streak-stats)
 
 ## 🚀 Tools and Technologies I Use
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
