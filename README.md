@@ -7,8 +7,7 @@ Hüma Browser is the first Turkish web browser, built on the Firefox platform wi
 ## My Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vastsea0&locale=tr)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastsea0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vastsea0&theme=vision-friendly-dark&layout=pie)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VastSea0)] 
+<figure><embed src="https://wakatime.com/share/@VastSea0/ed5910da-c1bb-4381-8ab1-116b3b48a33d.svg"></embed></figure>
  
 
 ## 🚀 Tools and Technologies I Use
