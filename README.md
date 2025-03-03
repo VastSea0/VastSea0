@@ -7,7 +7,7 @@ I Will add details in this page.
 ## My Github Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vastsea0&locale=tr)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastsea0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Waka Time Streak](https://wakatime.com/share/@VastSea0/ed5910da-c1bb-4381-8ab1-116b3b48a33d.svg)](https://git.io/streak-stats)
+
 
  
 
