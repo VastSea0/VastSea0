@@ -1,8 +1,8 @@
 ![image](https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/banner.gif?raw=true)
-# 🌊 Hi, I'm Egehan! Developer of Hüma Browser...
+# 🌊 Hi, I'm Egehan! 
 
-## 🌟 Current Project: Hüma Browser (100.0b1)
-Hüma Browser is the first Turkish web browser, built on the Firefox platform with a strong focus on privacy and freedom. Inspired by the Hüma bird, it embodies the spirit of liberty and innovation. Currently, it supports both Linux and Windows platforms.
+## 🌟 Current Project:  ETEM
+I Will add details in this page.
 
 ## My Github Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vastsea0&locale=tr)
@@ -23,13 +23,12 @@ Hüma Browser is the first Turkish web browser, built on the Firefox platform wi
 - [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 ## 👨‍💻 About Me
-I was born and live in Kahramanmaraş. My interests include software, philosophy, mythology, history and music. I love writing and coding. I am always curious, researching and learning. I spend my days writing code, listening to music, reading books or watching TV series. I love doing all these things and one day I dream of retiring to a green forest using Debian with MATE desktop environment. Maybe then I can even write my own operating system for my cat.
+I was born and live in Kahramanmaraş. My interests include software, philosophy, mythology, history and music. I love writing and coding. I am always curious, researching and learning. I spend my days writing code, listening to music, reading books or watching TV series. I love doing all these things.
 
-In terms of software, I'm particularly interested in web development and I'm working on developing full-stack websites and software in the future. JavaScript is by far my favorite language. I also have a great interest in Linux systems and in the future I would like to write desktop software like Hüma. My goals include learning powerful programming languages like C/C++ and Rust.
 
 ## 🌱 Current Focus
-- Hüma Browser
-- Learning Rust 🦀
+- ETEM
+- Learning English B2+
 
 ## 📫 Contact Me:
 - Email: vastseaoffical0@outlook.com
