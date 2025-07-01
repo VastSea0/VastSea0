@@ -1,7 +1,7 @@
 ![image](https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/banner.gif?raw=true)
 # 🌊 Hi, I'm Egehan! 
 
-## 🌟 Current Project:  ETEM
+## 🌟 Current Project:  Notia
 I Will add details in this page.
 
 ## My Github Stats:
