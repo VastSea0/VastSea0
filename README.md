@@ -9,8 +9,6 @@ I Will add details in this page.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastsea0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
- 
-
 ## 🚀 Tools and Technologies I Use
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -27,7 +25,7 @@ I was born and live in Kahramanmaraş. My interests include software, philosophy
 
 
 ## 🌱 Current Focus
-- ETEM
+- Notia
 - Learning English B2+
 
 ## 📫 Contact Me:
