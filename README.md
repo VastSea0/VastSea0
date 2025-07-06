@@ -3,7 +3,7 @@
 # 🌊 Hi, I'm Egehan!
 
 ## 🌟 Current Project: Notia
-A new way to take notes on your memories and ideas. More details coming soon...
+A new way to take notes on your memories and ideas.
 
 ---
 
