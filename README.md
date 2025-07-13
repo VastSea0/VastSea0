@@ -28,8 +28,8 @@ A new way to take notes on your memories and ideas.
 
 ## 👨‍💻 About Me
 I'm a self-taught developer from Kahramanmaraş, Türkiye.  
-My passions include software, philosophy, mythology, history, and music.  
-I spend my time writing code, reading books, listening to music, and learning new things.  
+My passions include software, philosophy, linguistics, and music.  
+I spend my time writing code, reading books, listening to music, writing poems, and learning new things.  
 I value curiosity, creativity, and the joy of discovery.
 
 ---
