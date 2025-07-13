@@ -54,4 +54,4 @@ I value curiosity, creativity, and the joy of discovery.
 
 ---
 
-> ⭐ Developed with love and curiosity!
+> ⭐ Developed with love 
