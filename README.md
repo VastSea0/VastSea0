@@ -4,7 +4,7 @@
 
 ## 🌟 Current Project: Notia 📸
 A new way to take notes on your memories and ideas.
-
+(Dowland on PlayStore soon)
 ---
 
 ## 📊 My GitHub Stats
