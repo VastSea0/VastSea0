@@ -11,7 +11,7 @@ A new way to take notes on your memories and ideas.
 ## 📊 My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vastsea0&locale=tr)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vastsea0&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-![](https://hit.yhype.me/github/profile?account_id=144556903)
+![Githu profile view](https://hit.yhype.me/github/profile?account_id=144556903)
 ---
 
 ## 🛠️ Tools & Technologies I Use
