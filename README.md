@@ -4,7 +4,7 @@
 
 ## 🌟 Current Project: Notia 📸
 A new way to take notes on your memories and ideas.
-(Downlaod on PlayStore soon)
+(Download on PlayStore soon! Last 2 Days!)
 
 ---
 
