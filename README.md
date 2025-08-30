@@ -10,8 +10,15 @@ A new way to take notes on your memories and ideas.
 
 ## 📊 My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vastsea0&locale=tr)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vastsea0&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+ 
 ![Githu profile view](https://hit.yhype.me/github/profile?account_id=144556903)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vastsea0&theme=material_palenight) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vastsea0&theme=material_palenight&exclude=MDX)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vastsea0&theme=material_palenight) 
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vastsea0&theme=material_palenight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vastsea0&theme=material_palenight&utcOffset=0) 
 ---
 
 ## 🛠️ Tools & Technologies I Use
