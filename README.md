@@ -9,7 +9,7 @@ A new way to take notes on your memories and ideas.
 ---
 
 ## 📊 My GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vastsea0&locale=tr)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vastsea0&locale=en)
  
 ![Githu profile view](https://hit.yhype.me/github/profile?account_id=144556903)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vastsea0&theme=material_palenight) 
