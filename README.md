@@ -39,7 +39,19 @@ I'm a self-taught developer from Kahramanmaraş, Türkiye.
 My passions include software, philosophy, linguistics, and music.  
 I spend my time writing code, reading books, listening to music, writing poems, and learning new things.  
 I value curiosity, creativity, and the joy of discovery.
+Also, Listening to music is everything to me.
 
+### 🎶 My Favorite Artists & Songs
+
+- **Måneskin**  
+  - Album: *Teatro d'ira - Vol. I*  
+  - Favorite song: **Le parole lontane**
+- **t.A.T.u.**  
+  - Album: *200 По встречной*  
+  - Favorite song: **Я твоя не первая**
+- **Şebnem Ferah**  
+  - Album: *Kadın*  
+  - Favorite song: **Vazgeçtim Dünyadan**
 ---
 
 ## 🌱 Current Focus
