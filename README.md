@@ -49,6 +49,9 @@ Also, Listening to music is everything to me.
 - **t.A.T.u.**  
   - Album: *200 По встречной*  
   - Favorite song: **Я твоя не первая**
+- **Rammstein**  
+  - Album: *Mutter*  
+  - Favorite song: **Mein Herz brennt**
 - **Şebnem Ferah**  
   - Album: *Kadın*  
   - Favorite song: **Vazgeçtim Dünyadan**
