@@ -2,6 +2,26 @@
 
 # 🌊 Hi, I'm Egehan!
 
+## 🌟 Current Project: Notia 📸
+A new way to take notes on your memories and ideas.
+(Download on PlayStore soon! Last 2 Days!)
+
+---
+
+## 📊 My GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VastSea0&locale=en)
+ 
+![Githu profile view](https://hit.yhype.me/github/profile?account_id=144556903)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vastsea0&theme=material_palenight) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vastsea0&theme=material_palenight&exclude=MDX)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vastsea0&theme=material_palenight) 
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vastsea0&theme=material_palenight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vastsea0&theme=material_palenight&utcOffset=3) 
+---
+
+## 🛠️ Tools & Technologies I Use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
