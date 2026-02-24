@@ -4,7 +4,6 @@
 
 ## 🌟 Current Project: Notia 📸
 A new way to take notes on your memories and ideas.
-(Download on PlayStore soon! Last 2 Days!)
 
 ---
 
@@ -59,7 +58,7 @@ Also, Listening to music is everything to me.
 
 ## 🌱 Current Focus
 - 🚀 Building **Notia**
-- 📘 Reaching **B2+ level in English** & **A1 level in Italian (Imparare l’italiano)**
+- 📘 Reaching **C1+ level in English**
 
 
 ---
