@@ -50,10 +50,10 @@ Also, Listening to music is everything to me.
   - Favorite song: **Я твоя не первая**
 - **Rammstein**  
   - Album: *Mutter*  
-  - Favorite song: **Mein Herz brennt**
+  - Favorite song: **Wo bist du**
 - **Şebnem Ferah**  
   - Album: *Kadın*  
-  - Favorite song: **Vazgeçtim Dünyadan**
+  - Favorite song: **Can Kırıkları**
 ---
 
 ## 🌱 Current Focus
