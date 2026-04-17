@@ -5,7 +5,7 @@
 # Egehan Kahraman
 ### Building languages, browsers, and ideas — from high school, in Türkiye.
 
-[![Email](https://img.shields.io/badge/vastseaoffical0@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:vastseaoffical0@outlook.com)
+[![Email](https://img.shields.io/badge/egehankahraman0@gmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:egehankahraman0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/egehan-kahraman)
 [![Blog](https://img.shields.io/badge/VastSea%20Tech%20Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://vastsea.dev)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@egehankhrmn)
