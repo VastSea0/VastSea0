@@ -1,10 +1,11 @@
 I am Egehan
 
-https://egehankahraman.vercel.app
-https://hilal-browser.vercel.app
-https//huma-lang.vercel.app
-https//youthx-vercel.app
-https://notia-web.vercel.app
-https://genctek-sunum.vercel.app
-https://merge-paws.vercel.app 
-https://chinese-prject.vercel.app
+
+- [Egehan Kahraman Portfolio](https://egehankahraman.vercel.app)
+- [Hilal Browser](https://hilal-browser.vercel.app)
+- [Huma Lang](https://huma-lang.vercel.app)
+- [YouthX](https://youthx-vercel.app)
+- [Notia](https://notia-web.vercel.app)
+- [Kahramanmaraş Gençtek Yapay Zeka Grubu](https://genctek-sunum.vercel.app)
+- [Merge Paws](https://merge-paws.vercel.app)
+- [Chinese Project](https://chinese-prject.vercel.app)
